@@ -1,0 +1,21 @@
+.projectTitle {
+    font-size: 4em;
+}
+
+.projectCard {
+    width: 100%;
+    padding: 20px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+@media print {
+    .projectCard {
+        border-color: black;
+        font-size: 8px;
+        width: 100%;
+        page-break-inside: avoid;
+    }
+}

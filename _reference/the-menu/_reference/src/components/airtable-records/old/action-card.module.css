@@ -1,0 +1,27 @@
+.actionCard {
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 30px;
+}
+
+.assignedTo {
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 2em;
+}
+
+
+@media print {
+    .actionCard {
+        border-color: black;
+        /* width: 100%; */
+        page-break-inside: avoid;
+    }
+
+}

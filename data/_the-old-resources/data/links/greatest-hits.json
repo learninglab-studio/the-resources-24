@@ -1,0 +1,27 @@
+[
+  {
+    "url": "/simple/projects/spark/animating-a-character",
+    "linkTitle": "Animating a Character",
+    "text": "A tutorial on animating a character with Adobe Character Animator."
+  },
+  {
+    "url": "/simple/projects/the-tools/tool-rename-tutorial",
+    "linkTitle": "Rename Script Tutorial",
+    "text": "How to write a simple renaming script with nodejs. Useful for video production."
+  },
+  {
+    "url": "/simple/projects/the-tools/documentation/modules/macsetup-for-slack.md",
+    "linkTitle": "Mac Setup Instructions",
+    "text": "Simple instructions for setting up an LL Mac."
+  },
+  {
+    "url": "/simple/projects/the-art-of-code/recipes/make-an-airtable-tool",
+    "linkTitle": "Make an Airtable Tool",
+    "text": "Simple instructions for accessing Airtable from the command line."
+  },
+  {
+    "url": "/simple/projects/the-art-of-code/recipes/rock-the-party-quickly",
+    "linkTitle": "Rock the Party, Quickly",
+    "text": "Simple instructions for writing a youtube downloading script."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "/simple",
+    "linkTitle": "simple folder-based index of resources",
+    "text": "everything's here if you know how to find it."
+  },
+  {
+    "url": "/styled",
+    "linkTitle": "styled version of the simple system",
+    "text": "Does everything the simple system does, but adds fellows' custom css. If you're an LL Fellow, just add your css file to public folder of the Github repo and you should be good to go. If you're not a fellow, you can still click here to see the resources with different styles applied."
+  },
+  {
+    "url": "/greatest-hits",
+    "linkTitle": "greatest hits",
+    "text": "a curated collection of some of our better resources."
+  },
+  {
+    "url": "/gened1042",
+    "linkTitle": "gen ed 1042",
+    "text": "All the resources on anime, animation, podcasts (on anime), etc."
+  },
+  {
+    "url": "/simple/labs",
+    "linkTitle": "labs",
+    "text": "resources for the learning lab labs."
+  },
+  {
+    "url": "/simple/projects",
+    "linkTitle": "projects",
+    "text": "resources for the learning lab projects."
+  },
+  {
+    "url": "/simple/people",
+    "linkTitle": "people",
+    "text": "resources for the learning lab people."
+  },
+  {
+    "url": "/simple/tools",
+    "linkTitle": "tools",
+    "text": "resources for the learning lab tools."
+  },
+  {
+    "url": "/simple/stories",
+    "linkTitle": "stories",
+    "text": "resources for the learning lab stories."
+  }
+]
